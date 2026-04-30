@@ -1,0 +1,12 @@
+wK.png https://upload.wikimedia.org/wikipedia/commons/4/42/Chess_klt45.png
+wQ.png https://upload.wikimedia.org/wikipedia/commons/1/15/Chess_qlt45.png
+wR.png https://upload.wikimedia.org/wikipedia/commons/7/72/Chess_rlt45.png
+wB.png https://upload.wikimedia.org/wikipedia/commons/b/b1/Chess_blt45.png
+wN.png https://upload.wikimedia.org/wikipedia/commons/7/70/Chess_nlt45.png
+wP.png https://upload.wikimedia.org/wikipedia/commons/4/45/Chess_plt45.png
+bK.png https://upload.wikimedia.org/wikipedia/commons/f/f0/Chess_kdt45.png
+bQ.png https://upload.wikimedia.org/wikipedia/commons/4/47/Chess_qdt45.png
+bR.png https://upload.wikimedia.org/wikipedia/commons/f/ff/Chess_rdt45.png
+bB.png https://upload.wikimedia.org/wikipedia/commons/9/98/Chess_bdt45.png
+bN.png https://upload.wikimedia.org/wikipedia/commons/e/ef/Chess_ndt45.png
+bP.png https://upload.wikimedia.org/wikipedia/commons/c/c7/Chess_pdt45.png

@@ -1,0 +1,1 @@
+# Chess CV module init
